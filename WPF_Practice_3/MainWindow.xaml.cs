@@ -198,7 +198,7 @@ namespace WpfApp1
 
                 tbTimerCountdown.Text = "Время вышло!";
 
-                MessageBox.Show("Время вышло!");
+                MessageBox.Show("Время вышло!(Time's up!)");
 
             }
 
