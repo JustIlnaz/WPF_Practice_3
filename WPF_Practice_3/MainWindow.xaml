@@ -30,7 +30,7 @@
 
                     <TextBlock Text="m" VerticalAlignment="Center"/>
 
-                </StackPanel>
+                </StackPanel>   
 
                 <Button x:Name="btnSetAlarm" Content="Set Alarm" Click="BtnSetAlarm_Click" Margin="0 5"/>
 
